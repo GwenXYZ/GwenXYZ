@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @GwenXYZ
-- 👀 I’m interested in responsive web applications
-- 🌱 I’m currently learning Perl and Python
-- 💞️ I’m looking to collaborate on potential future projects
 - 📫 How to reach me: gwen@holford.xyz
 
 <!---
